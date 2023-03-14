@@ -4,7 +4,7 @@ public class explicit {
 
 	public static void main(String[] args) {
 		{
-			double d=200.06;
+			double d=156.06;
 			long l=(long)d;//explicit type casting
 			int i=(int)l;//explicit type casting 
 			System.out.println("Double Data type value"+d);
